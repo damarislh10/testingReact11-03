@@ -1,0 +1,27 @@
+.container-home {
+  background-image: url("https://res.cloudinary.com/df90q7vvj/image/upload/v1646662001/amazonasApp/61y7QXTGzXL._SX3000__wnrny2.jpg");
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-size: contain;
+  background-color: rgb(232, 240, 240);
+  padding-bottom: 4%;
+}
+.container-categ {
+  max-width: 95%;
+}
+.imgHome {
+  width: 300px;
+  object-fit: contain;
+}
+
+.rowHome1 {
+  padding-top: 15%;
+}
+.rowHome {
+  gap: 30px;
+}
+.colHome {
+  margin-top: 4%;
+  background-color: #fff;
+  cursor: pointer;
+}

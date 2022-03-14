@@ -1,0 +1,17 @@
+.container-perfil {
+  font-size: 12px;
+}
+.btnLogout {
+  border: none;
+}
+
+.contain-logout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgUser {
+  border-radius: 100px;
+  border: 1px solid gray;
+}

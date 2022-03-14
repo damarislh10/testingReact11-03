@@ -1,0 +1,63 @@
+.container-detail {
+  max-width: 97%;
+}
+.imgSecund {
+  width: 65px;
+}
+.stylBlue {
+  color: #0e7184;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.imgStar {
+  width: 24px;
+}
+
+.calificacion {
+  font-size: 16px;
+}
+
+.precio {
+  color: #cc1b1b;
+  font-size: 23px;
+}
+
+ul{
+  padding-left: 0;
+}
+ul > li {
+  margin-top: 2%;
+}
+
+.container-car {
+  border: 2px solid rgb(185, 184, 184);
+  border-radius: 10px;
+  padding: 5% 5% 3% 7%;
+}
+
+.btn-car {
+  align-items: center;
+  background-color: #f3d184;
+  border: 1px solid orange;
+  border-radius: 10px 5px;
+  cursor: pointer;
+  display: flex;
+  margin: 10px 0;
+  padding: 4px 5px 4px 3px;
+  color: #000;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.container-imgCar{
+  background-color: rgb(94, 91, 91);
+  border-radius: 5px;
+  padding:1% 2%;
+}
+
+.car-price{
+  color: #a10f0f;
+  font-weight: 700;
+  font-size: 20px;
+}

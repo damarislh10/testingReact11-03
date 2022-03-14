@@ -1,0 +1,27 @@
+.container-carrito {
+  max-width: 96%;
+}
+
+.img-car {
+  width: 200px;
+}
+
+.cantidad {
+  width: 20%;
+  text-align: center;
+}
+
+.btndelete {
+  background-color: #fff !important;
+  color: #0066c0 !important;
+  border: none;
+}
+
+.container-img-car {
+  display: flex;
+  align-items: center;
+}
+
+.enabled{
+  color: #007600;
+}
